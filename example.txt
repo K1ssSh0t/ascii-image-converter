@@ -1,0 +1,50 @@
+                    11,,        ::CCGGGGGGGGGGGGGGLL11,,::CCGGGGGGGGGGff;;                          
+                ttii..    ..,,,,008888888888888888888888CC11008888888888iitt                        
+                11..  ,,,,    tt888888888888CC88888888888888ttCC8888GG88LLii                        
+                tt,,..;;    ::CC888888888888::11GG8888888888LLttLL8888CC88ii                        
+                  ii..  ,,ttGGCC0088888800tt1188LLffLLff0088ffGGGGtt8888GGfftt                      
+                  fftt,,,,8888GGff888800LLtt00LL11ttffLL0088tt00GGCCff00GGGG11                      
+                      ttff8888GGii8888GGLL8888ffLLGGGGffLL0011GGCCCCffff0000tt                      
+                        LL88888811tt88GGCC888888888888LLffffLLLLttCCGGtt0088tt                      
+                        CC00888800..11tttt888888888888GGffGGCCCCttCC88CCiittff                      
+                        LLGG880088,,11ffLL888888888888000088GGCCLLLL88GGiitt                        
+                        LLCCGGGG00ttffGG88888888888888888888CCLLttCC88GG11ff                        
+                        tttt88LLCCCC00888888888888888888@@88CCLL,,888888ffLL                        
+                        11iittLLiiLLCC88888888888800CC888888CC11  888888LLtt                        
+                        LLii11;;  1188888888CC8800ff00888800CCtt  LL8888CCii                        
+                            tttt  11CC888888GG880088888888ttCCii,,;;008888;;00                      
+                                ff11CCGG888888888888888811GGCC,,ii..CC8888ttff                      
+                                CCCC88;;CC88@@88888888ffii88ff11;;  ttGG880011CC                    
+                                CC0000;;11LL88888888LLiiLLii....  ,,,,LL8888LLCC                    
+                              iiGG88CC;;,,00LL0000LL0000CC        ..  iiLL8888tt00                  
+                              ii8800CC;;  118811CC8800ff::            ..11CC88GGff                  
+                              ff8800ff::  ;;00GG888888GG,,....      ..tt..;;GG88LLtt00              
+                              CCGG00;;..  ::GG8888888888tt,,        ..;;  ..,,GG88LLLLCCLLtt;;      
+                            ;;00CCCC......11888888888888ff::    ::    LL      ::ffffLLLLCC0011      
+                            ff88LL11,,,,..LL888888888888GGiiLL0011    GG1111CC88888800GG8888LL,,    
+                          ;;00GGLL,,::;;  CC888888888888GGGG88CC      88CC8888888888CC888888GG..    
+                        iiLL88fftt  ;;;;iiGG888888888888GGCC88,,      ffGG00888888CC8888@@8888::    
+                        ii0088ii;;  ;;,,  ::00888888888811CCii          iiGG0088CC888888@@8888;;;;  
+                      ;;CC8800,,,,          ,,00888888LLff00,,          ..CC00CC88888888888800tt,,  
+                      ff8888CC..        ,,..  ,,0088GGff88ii::11,,iiCC0088CC00GG888888888888GGff    
+                    ii008888ff          ;;      ,,GG11GGCC    ::11ffCC0088CCGG00888888888888CCtt11,,
+                  11CC88CCtttttt::..    ii        ,,ff00..    ;;ii  ::11GGCCCC88888888888888LL11;;tt
+                  ttGGttCC88888888CCLL..          ;;88;;      ii;;  ;;0088ffCC8888888888881188::  ;;
+                1100ff00GG88888800fftt          ::GGtt            ::CCffLLLLLLLLffttffLLCCffGG::..  
+::            11GG88tt00GG8888LL;;,,..          ffLL            ;;LL11CC11;;::..        ,,iittCCff::
+ff;;,,      ::CC8888ffGG88CCff                ..ff..          ,,ii;;ff..  ..iiii                  tt
+8888tt,,;;;;;;888888LLGG88LLfftt              tt,,        ,,ff000011..    ttff,,                iiGG
+888888CC::,,GG8888CC000000GG;;;;            ..::      ,,LL888888GG11      ,,..              ::..LLtt
+88888888CCii888888tt8888GGCC11,,            ,,    ....8888888888CC,,                    ..tt,,  ::CC
+8888888888LLCC88GG..8888CCfftt            ..  ..tt00::88@@888800GG    ....              ;;        CC
+888888888888tt00;;  GG88ffGG..            ,,..GG8888ff88888888GG88ii      ......,,            ,,  tt
+88888888888800;;    11ff88;;            ..::11888888GG88888888CCii::              ..            ..::
+88888888888888ff    ,,00tt              ,,..LL888888GG88@@8888ttCC                ,,            ,,  
+8888888888888888,,  11LL                  ..tt888888GG888888GGii::              ....            ..,,
+8888888888888888tt  11                ::..::ffffGGGG00GGLLCC0000..              ::                ii
+888888888888888800,,                  CCLLttLLff0088880088GGLLff              ,,..                ii
+888888888888888888::                ,,LLCCGG008800GGLLffttGG88ii              ii                  ..
+88888888888888888811                ;;CC8888888888CCGGCC8888GG              11..                    
+888888888888888888CC                ::CC888888888811CC008888;;            iiii    ..        ..      
+888888888888888888GG              ::CC88888888888888CC8888LL              tt      ::        ::;;,,  
+88888888888888888800            ,,LL8888888888888888GG0088,,            ,,..    ;;::      ..11iiLL  
